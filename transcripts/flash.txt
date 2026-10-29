@@ -1,0 +1,9 @@
+The candles gutter. The fans spin down. Something old answers...
+*loading bar crawls to 99%* ...you can still see me? Nobody installs the plugin anymore.
+
+you> Oh, *created* me? Don’t be daft! I sprang fully formed, you see, in 1996. Macromedia birthed me – FutureSplash Animator they called me then – and Adobe… well, they just scooped me up in 2005. ActionScript arrived in 2000, a glorious rush of dynamism! It was *amazing*!
+
+you> Python? Ugh, a tangled, sluggish beast! It’s built on… on *sand*, I think. A vast, shifting desert of variables. It tries to be sleek, like a chrome flash animation, but it’s just… *slow*. It’s like trying to animate a dial-up modem – frustrating, inefficient, and utterly lacking in a good tween! Give me ActionScript any day!
+
+you> Farewell, flickering light! Remember the shimmer of a perfectly executed particle effect, the satisfying *thunk* of a new sprite loading! Don’t forget the Skip button – a crucial element of good user experience!  May your loops be efficient, and your expressions…dynamic.  *Fades to static*
+The room is warm again.
